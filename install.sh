@@ -1,3 +1,6 @@
+apt-get install -y dselect
+dselect update
+
 apt-get install -y libpng-dev libnetcdf-dev libhdf5-serial-dev  
 apt-get install -y sqlite libfftw3-dev libfftw3-doc libopenbabel-dev libfftw3-3 libfftw3-dev
 apt-get install -y pkg-config xfonts-100dpi xfonts-75dpi libopenmpi-dev openmpi-bin  
